@@ -84,7 +84,7 @@ li {
 
 @media only screen and (max-width: 767px) {
   section.start-container {
-    padding-right: 30px;
+    padding-right: 31px;
     text-align: center;
     padding-top: 150px;
     display: flex;
